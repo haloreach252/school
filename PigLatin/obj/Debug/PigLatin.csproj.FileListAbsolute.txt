@@ -1,0 +1,6 @@
+D:\CSharp\SchoolCSharpProjects\PigLatin\bin\Debug\PigLatin.exe.config
+D:\CSharp\SchoolCSharpProjects\PigLatin\bin\Debug\PigLatin.exe
+D:\CSharp\SchoolCSharpProjects\PigLatin\bin\Debug\PigLatin.pdb
+D:\CSharp\SchoolCSharpProjects\PigLatin\obj\Debug\PigLatin.csprojAssemblyReference.cache
+D:\CSharp\SchoolCSharpProjects\PigLatin\obj\Debug\PigLatin.exe
+D:\CSharp\SchoolCSharpProjects\PigLatin\obj\Debug\PigLatin.pdb

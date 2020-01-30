@@ -1,0 +1,6 @@
+D:\CSharp\SchoolCSharpProjects\NumberGuesser\bin\Debug\NumberGuesser.exe.config
+D:\CSharp\SchoolCSharpProjects\NumberGuesser\bin\Debug\NumberGuesser.exe
+D:\CSharp\SchoolCSharpProjects\NumberGuesser\bin\Debug\NumberGuesser.pdb
+D:\CSharp\SchoolCSharpProjects\NumberGuesser\obj\Debug\NumberGuesser.csprojAssemblyReference.cache
+D:\CSharp\SchoolCSharpProjects\NumberGuesser\obj\Debug\NumberGuesser.exe
+D:\CSharp\SchoolCSharpProjects\NumberGuesser\obj\Debug\NumberGuesser.pdb
